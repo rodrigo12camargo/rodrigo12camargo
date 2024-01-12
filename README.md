@@ -9,7 +9,7 @@
 Encuentra aquí implementaciones en:
 - **C#:** Para aplicaciones móviles y de escritorio.
 - **Java y Kotlin:** Para aplicaciones móviles.
-- **Programacion web** Para propuestas de desarrollo o templates que podras modificar a tus necesidades. 
+- **Programacion web:** Para propuestas de desarrollo o templates que podras modificar a tus necesidades. 
 
 ## Investigación y Desarrollo
 - Generación de documentos formales basados en instrucciones proporcionadas.
